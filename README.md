@@ -23,8 +23,8 @@ The primary objective of this project is to demonstrate document classification 
 To use this project:
 
 1. Ensure you have Python installed.
-2. Install the required libraries by running: pip install scikit-learn
-3. Clone the repository to your local machine: git clone <repository_URL>
+2. Install the required libraries by running: - pip install scikit-learn
+3. Clone the repository to your local machine: - git clone <repository_URL>
 
 4. Navigate to the project directory and explore the Jupyter Notebook or Python scripts to understand the document classification process using Count Vectorizer.
 
